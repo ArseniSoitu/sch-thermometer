@@ -1,6 +1,6 @@
 EESchema Schematic File Version 4
 LIBS:thermometer-cache
-EELAYER 29 0
+EELAYER 30 0
 EELAYER END
 $Descr A3 16535 11693
 encoding utf-8
@@ -1276,7 +1276,7 @@ POW_STAT
 Wire Wire Line
 	2850 8300 2400 8300
 Connection ~ 2850 8300
-Text Label 8500 6200 0    50   ~ 0
+Text Label 8500 6100 0    50   ~ 0
 POW_STAT
 Wire Wire Line
 	8900 6200 8450 6200
@@ -1496,7 +1496,7 @@ F 3 "~" H 2200 4200 50  0001 C CNN
 	1    2200 4200
 	1    0    0    -1  
 $EndComp
-Text Label 8500 6100 0    50   ~ 0
+Text Label 8500 6200 0    50   ~ 0
 CHG_STAT
 Wire Wire Line
 	8900 6100 8450 6100
